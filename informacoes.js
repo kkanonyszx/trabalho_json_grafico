@@ -1,5 +1,3 @@
-const url = 'https://raw.githubusercontent.com/XxAndressaxX/graficos/refs/heads/main/informacoes.json'
-
 async function vizualizarInformacoes() {
     const res = await fetch(url)
     const dados = await res.json()
