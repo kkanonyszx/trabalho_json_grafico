@@ -1,5 +1,4 @@
-const url = '
-
+const url = 'kkanonyszx.github.io/trabalho_json_grafico/
 
 async function vizualizarInformacoes() {
     const res = await fetch(url)
